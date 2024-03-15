@@ -1,5 +1,5 @@
 [package]
-name = "inkwellccfix"
+name = "inkwell"
 version = "0.4.0"
 authors = ["Daniel Kolsoi <thadan64@gmail.com>"]
 description = "Inkwell aims to help you pen your own programming languages by safely wrapping llvm-sys."
